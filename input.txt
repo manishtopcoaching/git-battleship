@@ -1,0 +1,11 @@
+5E	//Boundary of the battleship
+Q	//Type of battleship 1
+11	//Dimension of battleship 1 
+A1	//Location of battleship 1 in play-area 1
+B2	//Location of battleship 1 in play-area 1
+P	//Type of battleship 2
+21	//Dimension of battleship 2
+D4	//Location of battleship 2 in play-area 1
+C3	//Location of battleship 1 in play-area 1
+A1 B2 B2 B3
+A1 B2 B3 A1 D1 E1 D4 D4 D5 D5
